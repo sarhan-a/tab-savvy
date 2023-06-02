@@ -1,7 +1,12 @@
 {
-  "manifest_version": 1,
+  "manifest_version": 3,
   "version": "1.0",
   "name": "tab savvy",
+  "icons": {
+    "16": "media/icon16.png",
+    "48": "media/icon48.png",
+    "128": "media/icon128.png"
+  },
   "action": {
     "default_popup": "index.html"
   },
